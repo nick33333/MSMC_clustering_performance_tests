@@ -1,0 +1,364 @@
+B10k_ID,Species_Name_Standard,Realm_fixed,realm_all
+APP-001,Charadrius_vociferus,Neotropical,Nearctic Neotropical Palearctic Panamanian
+APP-002,Acanthisitta_chloris,Australian,Australian
+APP-004,Apaloderma_vittatum,Afrotropical,Afrotropical
+APP-005,Aptenodytes_forsteri,NA,NA
+APP-006,Balearica_regulorum,Afrotropical,Afrotropical
+APP-007,Buceros_rhinoceros,Oriental,Oriental
+APP-008,Calypte_anna,Nearctic,Nearctic
+APP-009,Antrostomus_carolinensis,Nearctic,NA
+APP-010,Cariama_cristata,Neotropical,Neotropical
+APP-011,Cathartes_aura,Nearctic,Nearctic Neotropical Panamanian
+APP-012,Chaetura_pelagica,Nearctic,Nearctic
+APP-013,Chlamydotis_macqueenii,Saharo-Arabian,Palearctic Saharo-Arabian
+APP-014,Colius_striatus,Afrotropical,Afrotropical
+APP-015,Columba_livia,Palearctic,Afrotropical Nearctic Oriental Palearctic Panamanian Saharo-Arabian Sino-Japanese
+APP-016,Corvus_brachyrhynchos,Nearctic,Nearctic Palearctic
+APP-017,Cuculus_canorus,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+APP-018,Egretta_garzetta,Sino-Japanese,Australian Afrotropical Oriental Palearctic Saharo-Arabian Sino-Japanese
+APP-019,Eurypyga_helias,Neotropical,Neotropical Panamanian
+APP-020,Falco_peregrinus,Saharo-Arabian,Madagascan Australian Afrotropical Nearctic Neotropical Oceanina Oriental Palearctic Saharo-Arabian Sino-Japanese
+APP-021,Fulmarus_glacialis,Palearctic,Palearctic
+APP-022,Gavia_stellata,Palearctic,Nearctic Palearctic Sino-Japanese
+APP-023,Geospiza_fortis,Neotropical,Neotropical
+APP-025,Haliaeetus_leucocephalus,Nearctic,Nearctic Palearctic
+APP-026,Leptosomus_discolor,Madagascan,Madagascan
+APP-028,Melopsittacus_undulatus,Australian,Australian
+APP-029,Merops_nubicus,Afrotropical,Afrotropical
+APP-030,Mesitornis_unicolor,Madagascan,Madagascan
+APP-031,Nestor_notabilis,Australian,Australian
+APP-032,Nipponia_nippon,Sino-Japanese,Sino-Japanese
+APP-033,Opisthocomus_hoazin,Neotropical,Neotropical Panamanian
+APP-034,Pelecanus_crispus,Saharo-Arabian,Palearctic Saharo-Arabian
+APP-035,Phaethon_lepturus,Afrotropical,Oceanina Oriental Sino-Japanese
+APP-036,Phalacrocorax_carbo,Palearctic,Australian Afrotropical Nearctic Oriental Palearctic Saharo-Arabian Sino-Japanese
+APP-037,Phoenicopterus_ruber,NA,Afrotropical Neotropical Oriental Palearctic Panamanian Saharo-Arabian
+APP-038,Picoides_pubescens,Nearctic,Nearctic Palearctic
+APP-039,Podiceps_cristatus,Nearctic,Australian Afrotropical Oriental Palearctic Saharo-Arabian Sino-Japanese
+APP-040,Pterocles_gutturalis,Afrotropical,Afrotropical
+APP-041,Pygoscelis_adeliae,NA,NA
+APP-042,Struthio_camelus,Afrotropical,Afrotropical Palearctic Saharo-Arabian
+APP-043,Tauraco_erythrolophus,Afrotropical,Afrotropical
+APP-044,Tinamus_guttatus,Neotropical,Neotropical
+APP-045,Tyto_alba,Nearctic,Madagascan Australian Afrotropical Nearctic Neotropical Oceanina Oriental Palearctic Panamanian Saharo-Arabian Sino-Japanese
+B10K-Callaeas_wilsoni,Callaeas_wilsoni,Australian,NA
+B10K-Casuarius_casuarius,Casuarius_casuarius,Oceanina,Australian Oceanina
+B10K-Crypturellus_soui,Crypturellus_soui,Neotropical,Neotropical Panamanian
+B10K-Crypturellus_undulatus,Crypturellus_undulatus,Neotropical,Neotropical
+B10K-CU-030-46,Menura_novaehollandiae,Australian,Australian
+B10K-CU-031-01,Ardeotis_kori,Afrotropical,Afrotropical
+B10K-CU-031-02,Ceuthmochares_aereus,Afrotropical,Afrotropical
+B10K-CU-031-03,Cochlearius_cochlearius,Neotropical,Nearctic Neotropical Panamanian
+B10K-CU-031-07,Geococcyx_californianus,Nearctic,Nearctic
+B10K-CU-031-08,Glareola_pratincola,Saharo-Arabian,Afrotropical Oriental Palearctic Saharo-Arabian
+B10K-CU-031-10,Nyctibius_bracteatus,Neotropical,Neotropical
+B10K-CU-031-11,Oceanites_oceanicus,Nearctic,NA
+B10K-CU-031-12,Rhodinocichla_rosea,Panamanian,Nearctic Neotropical Panamanian
+B10K-CU-031-13,Tachuris_rubrigastra,Neotropical,Neotropical
+B10K-CU-031-17,Ptilorrhoa_leucosticta,Oceanina,Oceanina
+B10K-CU-031-19,Chaetorhynchus_papuensis,Oceanina,Oceanina
+B10K-CU-031-20,Smithornis_capensis,Afrotropical,Afrotropical
+B10K-CU-031-22,Chunga_burmeisteri,Neotropical,Neotropical
+B10K-CU-031-23,Lophotis_ruficrista,Afrotropical,Afrotropical
+B10K-CU-031-38,Anhinga_anhinga,Nearctic,Nearctic Neotropical Panamanian
+B10K-CU-031-40,Corythaeola_cristata,Afrotropical,Afrotropical
+B10K-Dromaius_novaehollandiae,Dromaius_novaehollandiae,Australian,Australian
+B10K-DU-001-01,Cephalopterus_ornatus,Neotropical,Neotropical
+B10K-DU-001-02,Grallaria_varia,Neotropical,Neotropical
+B10K-DU-001-03,Sclerurus_mexicanus,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-001-04,Eubucco_bourcierii,Panamanian,Neotropical Panamanian
+B10K-DU-001-06,Sakesphorus_luctuosus,Neotropical,Neotropical
+B10K-DU-001-07,Ciccaba_nigrolineata,Panamanian,NA
+B10K-DU-001-08,Penelope_pileata,Neotropical,Neotropical
+B10K-DU-001-09,Campylorhamphus_procurvoides,Neotropical,Neotropical Panamanian
+B10K-DU-001-15,Alaudala_cheleensis,Sino-Japanese,NA
+B10K-DU-001-16,Bucco_capensis,Neotropical,Neotropical
+B10K-DU-001-17,Catharus_fuscescens,Nearctic,Nearctic
+B10K-DU-001-18,Regulus_satrapa,Nearctic,Nearctic Palearctic Panamanian
+B10K-DU-001-19,Loxia_leucoptera,Nearctic,Nearctic Palearctic
+B10K-DU-001-20,Stercorarius_parasiticus,Panamanian,Nearctic Palearctic
+B10K-DU-001-21,Baryphthengus_martii,Panamanian,Neotropical Panamanian
+B10K-DU-001-22,Vireo_altiloquus,Nearctic,Nearctic
+B10K-DU-001-23,Hemiprocne_comata,Oriental,Oriental
+B10K-DU-001-24,Psilopogon_haemacephalus,Oriental,NA
+B10K-DU-001-25,Edolisoma_coerulescens,Oriental,NA
+B10K-DU-001-26,Irena_cyanogastra,Oriental,Oriental
+B10K-DU-001-27,Sterrhoptilus_dennistouni,Oriental,NA
+B10K-DU-001-28,Pachycephala_philippinensis,Oriental,Oriental
+B10K-DU-001-29,Rhabdornis_inornatus,Oriental,Oriental
+B10K-DU-001-30,Ramphastos_sulfuratus,Panamanian,Nearctic Neotropical Panamanian
+B10K-DU-001-31,Quiscalus_mexicanus,Panamanian,Nearctic Neotropical Panamanian
+B10K-DU-001-32,Hydrobates_tethys,Nearctic,NA
+B10K-DU-001-33,Myiagra_hebetior,Oceanina,Oceanina
+B10K-DU-001-34,Dicaeum_eximium,Oceanina,Oceanina
+B10K-DU-001-35,Leptocoma_aspasia,Oceanina,NA
+B10K-DU-001-36,Zosterops_hypoxanthus,Oceanina,Oceanina
+B10K-DU-001-37,Tyrannus_savana,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-001-39,Alectura_lathami,Australian,Australian
+B10K-DU-001-40,Podargus_strigoides,Australian,Australian
+B10K-DU-001-42,Semnornis_frantzii,Panamanian,Panamanian
+B10K-DU-001-43,Formicarius_rufipectus,Panamanian,Neotropical Panamanian
+B10K-DU-001-44,Mesembrinibis_cayennensis,Panamanian,Neotropical Panamanian
+B10K-DU-001-45,Setophaga_kirtlandii,Nearctic,NA
+B10K-DU-001-46,Amazona_guildingii,Neotropical,Neotropical
+B10K-DU-001-47,Ciconia_maguari,Neotropical,Neotropical Panamanian
+B10K-DU-001-48,Dicrurus_megarhynchus,Oceanina,Oceanina
+B10K-DU-001-49,Rhipidura_dahli,Oceanina,Oceanina
+B10K-DU-001-53,Odontophorus_gujanensis,Neotropical,Neotropical Panamanian
+B10K-DU-001-55,Heliornis_fulica,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-001-56,Nyctibius_grandis,Neotropical,Neotropical Panamanian
+B10K-DU-001-57,Anseranas_semipalmata,Australian,Australian Oceanina
+B10K-DU-001-60,Psophia_crepitans,Neotropical,Neotropical Panamanian
+B10K-DU-001-61,Chloroceryle_aenea,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-001-62,Galbula_dea,Neotropical,Neotropical
+B10K-DU-001-63,Donacobius_atricapilla,Neotropical,Neotropical Panamanian
+B10K-DU-001-64,Burhinus_bistriatus,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-001-65,Lanius_ludovicianus,Nearctic,Nearctic Panamanian
+B10K-DU-001-66,Polioptila_caerulea,Nearctic,Nearctic Panamanian
+B10K-DU-001-67,Hirundo_rustica,Nearctic,Afrotropical Nearctic Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-001-68,Thryothorus_ludovicianus,Nearctic,Nearctic Panamanian
+B10K-DU-001-69,Cardinalis_cardinalis,Nearctic,Nearctic Panamanian
+B10K-DU-001-70,Hylia_prasina,Afrotropical,
+B10K-DU-001-71,Dyaphorophyia_castanea,Afrotropical,
+B10K-DU-001-72,Pachyramphus_minor,Neotropical,
+B10K-DU-001-74,Oenanthe_oenanthe,Palearctic,Nearctic Palearctic Saharo-Arabian
+B10K-DU-001-75,Motacilla_alba,Palearctic,Nearctic Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-001-77,Cinclus_mexicanus,Nearctic,Nearctic Panamanian
+B10K-DU-001-78,Indicator_maculatus,Afrotropical,Afrotropical
+B10K-DU-001-79,Ploceus_nigricollis,Afrotropical,Afrotropical
+B10K-DU-002-01,Illadopsis_cleaveri,Afrotropical,Afrotropical
+B10K-DU-002-02,Leucopsar_rothschildi,Oriental,Oriental
+B10K-DU-002-03,Serilophus_lunatus,Oriental,Oriental Sino-Japanese
+B10K-DU-002-05,Gymnorhina_tibicen,Australian,Australian Oceanina
+B10K-DU-002-07,Oxyruncus_cristatus,Neotropical,Neotropical Panamanian
+B10K-DU-002-08,Sinosuthora_webbiana,Palearctic,NA
+B10K-DU-002-09,Locustella_ochotensis,Palearctic,Palearctic Sino-Japanese
+B10K-DU-002-10,Aegithalos_caudatus,Palearctic,Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-002-11,Aramus_guarauna,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-002-13,Himantopus_himantopus,Neotropical,Madagascan Australian Afrotropical Neotropical Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-002-14,Nycticryphes_semicollaris,Neotropical,Neotropical
+B10K-DU-002-15,Toxostoma_redivivum,Nearctic,Nearctic
+B10K-DU-002-16,Rynchops_niger,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-002-18,Hippolais_icterina,Palearctic,Palearctic Saharo-Arabian
+B10K-DU-002-19,Sylvia_borin,Palearctic,Palearctic
+B10K-DU-002-20,Certhia_brachydactyla,Palearctic,Palearctic Saharo-Arabian
+B10K-DU-002-22,Paradisaea_raggiana,Oceanina,Oceanina
+B10K-DU-002-23,Bombycilla_garrulus,Nearctic,Nearctic Palearctic
+B10K-DU-002-24,Oriolus_oriolus,Palearctic,Palearctic Saharo-Arabian
+B10K-DU-002-25,Sitta_europaea,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-002-26,Rhadina_sibilatrix,Palearctic,NA
+B10K-DU-002-28,Larus_smithsonianus,Nearctic,Nearctic Palearctic
+B10K-DU-002-30,Cisticola_juncidis,Sino-Japanese,Australian Afrotropical Oceanina Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-002-32,Phainopepla_nitens,Nearctic,Nearctic
+B10K-DU-002-35,Rhinopomastus_cyanomelas,Afrotropical,Afrotropical
+B10K-DU-002-36,Rhinoptilus_africanus,Afrotropical,Afrotropical Saharo-Arabian
+B10K-DU-002-37,Tricholaema_leucomelas,Afrotropical,Afrotropical
+B10K-DU-002-40,Nicator_chloris,Afrotropical,Afrotropical
+B10K-DU-002-42,Pycnonotus_jocosus,Nearctic,Oriental Sino-Japanese
+B10K-DU-002-43,Leiothrix_lutea,Nearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-002-46,Scytalopus_superciliaris,Neotropical,Neotropical
+B10K-DU-002-47,Thinocorus_orbignyianus,Neotropical,Neotropical
+B10K-DU-002-48,Fregata_magnificens,Nearctic,NA
+B10K-DU-002-49,Sula_dactylatra,Nearctic,Australian Oceanina Oriental Sino-Japanese
+B10K-DU-002-50,Vidua_macroura,Afrotropical,Afrotropical
+B10K-DU-002-51,Eurystomus_gularis,Afrotropical,Afrotropical
+B10K-DU-002-52,Peucedramus_taeniatus,Nearctic,Nearctic Panamanian
+B10K-DU-002-53,Pitta_sordida,Oriental,Oceanina Oriental Sino-Japanese
+B10K-DU-002-55,Calyptomena_viridis,Oriental,Oriental
+B10K-DU-002-56,Dryoscopus_gambensis,Afrotropical,Afrotropical
+B10K-DU-002-57,Chloropsis_cyanopogon,Oriental,Oriental
+B10K-DU-002-58,Erpornis_zantholeuca,Oriental,Oriental Sino-Japanese
+B10K-DU-002-59,Jacana_jacana,Panamanian,Neotropical Panamanian
+B10K-DU-002-60,Erythrocercus_mccallii,Afrotropical,
+B10K-DU-002-69,Todus_mexicanus,Panamanian,
+B10K-DU-002-70,Scopus_umbretta,Afrotropical,Madagascan Afrotropical Saharo-Arabian
+B10K-DU-002-71,Pomatostomus_ruficeps,Australian,Australian
+B10K-DU-002-79,Neodrepanis_coruscans,Madagascan,Madagascan
+B10K-DU-002-81,Oxylabes_madagascariensis,Madagascan,Madagascan
+B10K-DU-002-82,Mystacornis_crossleyi,Madagascan,Madagascan
+B10K-DU-002-83,Hypocryptadius_cinnamomeus,Oriental,Oriental
+B10K-DU-003-06,Furnarius_figulus,Neotropical,Neotropical
+B10K-DU-003-16,Mionectes_macconnelli,Neotropical,Neotropical
+B10K-DU-003-42,Syrrhaptes_paradoxus,Palearctic,Palearctic Sino-Japanese
+B10K-DU-003-44,Crotophaga_sulcirostris,Panamanian,Nearctic Neotropical Panamanian
+B10K-DU-004-15,Neopipo_cinnamomea,Neotropical,Neotropical
+B10K-DU-005-01,Nyctiprogne_leucopyga,Neotropical,Neotropical Panamanian
+B10K-DU-005-73,Arenaria_interpres,Panamanian,Nearctic Palearctic
+B10K-DU-005-78,Herpetotheres_cachinnans,Panamanian,Nearctic Neotropical Panamanian
+B10K-DU-006-06,Alopecoenas_beccarii,Oceanina,NA
+B10K-DU-006-09,Fregetta_grallaria,Oceanina,NA
+B10K-DU-006-20,Rostratula_benghalensis,Oriental,Madagascan Australian Afrotropical Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-007-02,Piprites_chloris,Neotropical,Neotropical Panamanian
+B10K-DU-007-40,Trogon_melanurus,Neotropical,Neotropical Panamanian
+B10K-DU-007-42,Spizaetus_tyrannus,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-008-47,Piaya_cayana,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-008-62,Chordeiles_acutipennis,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-008-63,Glaucidium_brasilianum,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-009-04,Podilymbus_podiceps,Neotropical,Nearctic Neotropical Panamanian
+B10K-DU-009-16,Phaetusa_simplex,Neotropical,Neotropical Panamanian
+B10K-DU-009-59,Sylvietta_virens,Afrotropical,Afrotropical
+B10K-DU-010-60,Circaetus_pectoralis,Afrotropical,Afrotropical Saharo-Arabian
+B10K-DU-011-20,Corythaixoides_concolor,Afrotropical,Afrotropical
+B10K-DU-011-36,Chauna_torquata,Neotropical,Neotropical
+B10K-DU-011-38,Sagittarius_serpentarius,Afrotropical,Afrotropical Saharo-Arabian
+B10K-DU-011-42,Anthoscopus_minutus,Afrotropical,Afrotropical
+B10K-DU-011-47,Zapornia_atra,Oceanina,NA
+B10K-DU-012-02,Buphagus_erythrorhynchus,Afrotropical,Afrotropical
+B10K-DU-012-10,Ptilonorhynchus_violaceus,Australian,Australian
+B10K-DU-012-14,Pluvianellus_socialis,Neotropical,Neotropical
+B10K-DU-012-30,Picathartes_gymnocephalus,Afrotropical,Afrotropical
+B10K-DU-012-37,Upupa_epops,Sino-Japanese,Madagascan Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-012-38,Urocynchramus_pylzowi,Sino-Japanese,Palearctic Sino-Japanese
+B10K-DU-012-41,Chaetops_frenatus,Afrotropical,Afrotropical
+B10K-DU-012-45,Pelecanoides_urinatrix,Neotropical,NA
+B10K-DU-012-46,Prunella_fulvescens,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-012-47,Tichodroma_muraria,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-012-52,Brachypteracias_leptosomus,Madagascan,Madagascan
+B10K-DU-012-55,Dromas_ardeola,Afrotropical,Oceanina Oriental Saharo-Arabian
+B10K-DU-012-56,Balaeniceps_rex,Afrotropical,Afrotropical
+B10K-DU-012-58,Pandion_haliaetus,Nearctic,Australian Afrotropical Nearctic Oceanina Oriental Palearctic Panamanian Saharo-Arabian Sino-Japanese
+B10K-DU-012-65,Grus_americana,Nearctic,Nearctic
+B10K-DU-012-80,Bucorvus_abyssinicus,Afrotropical,Afrotropical
+B10K-DU-013-18,Prunella_himalayana,Palearctic,Palearctic Saharo-Arabian
+B10K-DU-013-51,Ceyx_cyanopectus,Oriental,NA
+B10K-DU-015-11,Emberiza_fucata,Sino-Japanese,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-015-28,Calcarius_ornatus,Nearctic,Nearctic
+B10K-DU-017-21,Centropus_bengalensis,Oriental,Oceanina Oriental Sino-Japanese
+B10K-DU-017-25,Centropus_unirufus,Oriental,Oriental
+B10K-DU-017-47,Probosciger_aterrimus,Oceanina,Australian Oceanina
+B10K-DU-021-26,Columbina_picui,Neotropical,Neotropical
+B10K-DU-021-33,Chroicocephalus_maculipennis,Neotropical,Neotropical
+B10K-DU-023-52,Spizella_passerina,Nearctic,Nearctic Palearctic Panamanian
+B10K-DU-024-03,Halcyon_senegalensis,Afrotropical,Afrotropical
+B10K-DU-025-06,Eolophus_roseicapillus,Australian,NA
+B10K-DU-027-49,Pterocles_burchelli,Afrotropical,Afrotropical
+B10K-DU-028-75,Onychorhynchus_coronatus,Panamanian,Nearctic Neotropical Panamanian
+B10K-DU-029-24,Thalassarche_chlororhynchos,Neotropical,NA
+B10K-DU-029-28,Anhinga_rufa,Afrotropical,Madagascan Afrotropical Saharo-Arabian
+B10K-DU-029-32,Orthonyx_spaldingii,Australian,Australian
+B10K-DU-029-33,Struthidea_cinerea,Australian,Australian
+B10K-DU-029-36,Aleadryas_rufinucha,Oceanina,Oceanina
+B10K-DU-029-37,Melanocharis_versteri,Oceanina,Oceanina
+B10K-DU-029-38,Cnemophilus_loriae,Oceanina,Oceanina
+B10K-DU-029-39,Eulacestoma_nigropectus,Oceanina,Oceanina
+B10K-DU-029-40,Rhagologus_leucostigma,Oceanina,Oceanina
+B10K-DU-029-41,Ifrita_kowaldi,Oceanina,Oceanina
+B10K-DU-029-42,Oreocharis_arfaki,Oceanina,Oceanina
+B10K-DU-029-43,Machaerirhynchus_nigripectus,Oceanina,Oceanina
+B10K-DU-029-44,Malurus_elegans,Australian,Australian
+B10K-DU-029-46,Turnix_velox,Australian,Australian
+B10K-DU-029-47,Daphoenositta_chrysoptera,Australian,Australian Oceanina
+B10K-DU-029-49,Dasyornis_broadbenti,Australian,Australian
+B10K-DU-029-50,Grantiella_picta,Australian,Australian
+B10K-DU-029-51,Pardalotus_punctatus,Australian,Australian
+B10K-DU-029-52,Origma_solitaria,Australian,Australian
+B10K-DU-029-53,Climacteris_rufus,Australian,Australian
+B10K-DU-029-58,Rhynochetos_jubatus,Oceanina,Australian Oceanina
+B10K-DU-029-61,Atrichornis_clamosus,Australian,Australian
+B10K-DU-029-69,Horornis_vulcanius,Oriental,NA
+B10K-DU-029-75,Notiomystis_cincta,Australian,Australian
+B10K-DU-029-76,Aegotheles_bennettii,Oceanina,Oceanina
+B10K-DU-029-77,Falcunculus_frontatus,Australian,Australian
+B10K-DU-029-80,Pedionomus_torquatus,Australian,Australian
+B10K-DU-030-03,Drymodes_brunneopygia,Australian,Australian
+B10K-DU-030-18,Panurus_biarmicus,Palearctic,Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-030-22,Mohoua_ochrocephala,Australian,Australian
+B10K-DU-030-25,Ibidorhyncha_struthersii,Sino-Japanese,Oriental Palearctic Saharo-Arabian Sino-Japanese
+B10K-DU-030-41,Sapayoa_aenigma,Panamanian,Neotropical Panamanian
+B10K-DU-030-59,Urocolius_indicus,Afrotropical,Afrotropical
+B10K-Elachura_formosa,Elachura_formosa,Sino-Japanese,NA
+B10K-Eudromia_elegans,Eudromia_elegans,Neotropical,Neotropical
+B10K-IZ-033-77,Pteruthius_melanotis,Sino-Japanese,Oriental Sino-Japanese
+B10K-IZ-033-78,Chloropsis_hardwickii,Sino-Japanese,Oriental Sino-Japanese
+B10K-IZ-033-81,Pomatorhinus_ruficollis,Sino-Japanese,Oriental Palearctic Sino-Japanese
+B10K-Nothocercus_julius,Nothocercus_julius,Neotropical,Neotropical Panamanian
+B10K-Nothocercus_nigrocapillus,Nothocercus_nigrocapillus,Neotropical,Neotropical
+B10K-Nothoprocta_ornata,Nothoprocta_ornata,Neotropical,Neotropical
+B10K-Nothoprocta_pentlandii,Nothoprocta_pentlandii,Neotropical,Neotropical
+B10K-UC-030-51,Chionis_minor,Afrotropical,NA
+B10K-UC-030-53,Promerops_cafer,Afrotropical,Afrotropical
+NCBI-001,Coturnix_japonica,Sino-Japanese,Oriental Palearctic Sino-Japanese
+NCBI-002,Sturnus_vulgaris,NA,Oriental Palearctic Saharo-Arabian
+NCBI-003,Zosterops_lateralis,Oceanina,Australian Oceanina
+NCBI-004,Meleagris_gallopavo,Nearctic,Nearctic
+NCBI-005,Apteryx_australis,Australian,Australian
+NCBI-006,Falco_cherrug,Saharo-Arabian,Palearctic Saharo-Arabian Sino-Japanese
+NCBI-007,Zonotrichia_albicollis,Nearctic,Nearctic Palearctic
+NCBI-008,Lepidothrix_coronata,Neotropical,Neotropical Panamanian
+NCBI-009,Anser_cygnoid,NA,NA
+NCBI-010,Setophaga_coronata,Nearctic,NA
+NCBI-011,Gallus_gallus,Oriental,Oriental Saharo-Arabian Sino-Japanese
+NCBI-012,Ficedula_albicollis,Palearctic,Palearctic
+NCBI-013,Taeniopygia_guttata,Oriental,Australian Oriental
+NCBI-014,Aquila_chrysaetos,Nearctic,Afrotropical Nearctic Oriental Palearctic Saharo-Arabian Sino-Japanese
+NCBI-015,Calidris_pugnax,NA,NA
+NCBI-016,Tympanuchus_cupido,Nearctic,Nearctic
+NCBI-017,Pseudopodoces_humilis,Sino-Japanese,NA
+NCBI-018,Serinus_canaria,Saharo-Arabian,Palearctic Saharo-Arabian
+NCBI-019,Patagioenas_fasciata,NA,Nearctic Neotropical Panamanian
+NCBI-020,Corvus_cornix,Palearctic,Palearctic Saharo-Arabian
+NCBI-021,Passer_domesticus,Palearctic,Afrotropical Oriental Palearctic Saharo-Arabian Sino-Japanese
+NCBI-022,Parus_major,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+NCBI-024,Colinus_virginianus,Nearctic,Nearctic Panamanian
+NCBI-025,Callipepla_squamata,Nearctic,Nearctic
+NCBI-026,Sporophila_hypoxantha,Neotropical,Neotropical
+NCBI-027,Phalacrocorax_pelagicus,Nearctic,NA
+NCBI-028,Phalacrocorax_auritus,Nearctic,Nearctic Panamanian
+NCBI-029,Phalacrocorax_harrisi,Neotropical,NA
+NCBI-030,Phalacrocorax_brasilianus,Neotropical,Nearctic Neotropical Panamanian
+NCBI-031,Lonchura_striata,Oriental,Oriental Palearctic Sino-Japanese
+NCBI-032,Anas_zonorhyncha,NA,Oriental Palearctic Sino-Japanese
+NCBI-033,Phylloscopus_trochilus,Palearctic,Palearctic
+NCBI-034,Saxicola_maurus,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+NCBI-035,Uria_lomvia,Nearctic,Nearctic Palearctic
+NCBI-036,Strix_occidentalis,Nearctic,Nearctic
+NCBI-037,Anas_platyrhynchos,NA,Nearctic Oriental Palearctic Saharo-Arabian Sino-Japanese
+OUT-0001,Agapornis_roseicollis,Afrotropical,Afrotropical
+OUT-0002,Oreotrochilus_melanogaster,Neotropical,Neotropical
+OUT-0003,Alca_torda,Palearctic,Nearctic Palearctic
+OUT-0004,Steatornis_caripensis,Neotropical,Neotropical Panamanian
+OUT-0007,Caloenas_nicobarica,Oriental,Oceanina Oriental
+OUT-0008,Melospiza_melodia,Nearctic,Nearctic Palearctic
+OUT-0010,Rhegmatorhina_hoffmannsi,Neotropical,Neotropical
+OUT-0011,Loxia_curvirostra,Nearctic,Nearctic Oriental Palearctic Panamanian Saharo-Arabian Sino-Japanese
+OUT-0012,Junco_hyemalis,Nearctic,Nearctic Palearctic
+OUT-0013,Sylvia_atricapilla,Palearctic,Afrotropical Palearctic Saharo-Arabian
+OUT-0015,Erithacus_rubecula,Palearctic,Palearctic Saharo-Arabian
+OUT-0016,Limosa_lapponica,Australian,Nearctic Palearctic
+OUT-0017,Passerina_amoena,Nearctic,Nearctic
+OUT-0018,Pheucticus_melanocephalus,Nearctic,Nearctic Panamanian
+OUT-0019,Uria_aalge,Palearctic,Nearctic Palearctic
+OUT-0020,Cepphus_grylle,Nearctic,Nearctic Palearctic
+OUT-0021,Rissa_tridactyla,Nearctic,Nearctic Palearctic
+OUT-0022,Aphelocoma_coerulescens,Nearctic,Nearctic
+OUT-0023,Poecile_atricapillus,Nearctic,Nearctic Palearctic
+OUT-0024,Cercotrichas_coryphaeus,Afrotropical,NA
+OUT-0025,Calonectris_borealis,Palearctic,NA
+OUT-0026,Apteryx_haastii,Australian,Australian
+OUT-0027,Apteryx_owenii,Australian,Australian
+OUT-0028,Apteryx_rowi,Australian,Australian
+OUT-0029,Crypturellus_cinnamomeus,Panamanian,Nearctic Panamanian
+OUT-0030,Nothoprocta_perdicaria,Neotropical,Neotropical
+OUT-0031,Rhea_americana,Neotropical,Neotropical
+OUT-0032,Rhea_pennata,Neotropical,Neotropical
+OUT-0034,Chlorodrepanis_virens,Nearctic,NA
+OUT-0035,Hemignathus_wilsoni,Nearctic,NA
+OUT-0036,Cairina_moschata,NA,Nearctic Neotropical Panamanian
+OUT-0037,Brachypodius_atriceps,Oriental,NA
+OUT-0039,Certhia_familiaris,Palearctic,Oriental Palearctic Saharo-Arabian Sino-Japanese
+OUT-0040,Haliaeetus_albicilla,Palearctic,Palearctic Sino-Japanese
+OUT-0045,Phasianus_colchicus,Sino-Japanese,Oriental Palearctic Saharo-Arabian Sino-Japanese
+OUT-0046,Charadrius_alexandrinus,Sino-Japanese,Afrotropical Nearctic Neotropical Oriental Palearctic Panamanian Saharo-Arabian Sino-Japanese
+OUT-0047,Manacus_manacus,Panamanian,Neotropical Panamanian
+OUT-0048,Vidua_chalybeata,Afrotropical,Afrotropical
+OUT-0049,Molothrus_ater,Nearctic,Nearctic Panamanian
+OUT-0050,Agelaius_phoeniceus,Nearctic,Nearctic Palearctic Panamanian
+OUT-0051,Asarcornis_scutulata,Nearctic,Oriental Sino-Japanese
+OUT-0053,Nesospiza_acunhae,Palearctic,Afrotropical Neotropical
+OUT-0054,Acrocephalus_arundinaceus,Palearctic,Palearctic Saharo-Arabian
+OUT-0055,Atlantisia_rogersi,Palearctic,Panamanian
+OUT-0056,Cettia_cetti,Palearctic,Palearctic Saharo-Arabian
+OUT-0059,Xiphorhynchus_elegans,Neotropical,Neotropical
+OUT-0060,Corvus_moneduloides,Oceanina,Australian Oceanina
+OUT-0061,Copsychus_sechellarum,Oceanina,Oceanina
+OUT-0062,Numida_meleagris,Afrotropical,Afrotropical Saharo-Arabian
